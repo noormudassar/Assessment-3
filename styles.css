@@ -36,6 +36,12 @@ img {
   max-width: 300px;
 }
 
-.colorButton:active {
+.button {
+  display: block;
+  width: 45%;
   background-color: yellow;
 }
+
+/* .colorButton:active {
+  background-color: yellow;
+} */
