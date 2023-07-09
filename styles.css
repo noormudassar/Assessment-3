@@ -36,6 +36,10 @@ img {
   max-width: 300px;
 }
 
+#profileImage {
+  justify-content: center;
+}
+
 .button {
   display: block;
   width: 45%;

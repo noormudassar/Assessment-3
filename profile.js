@@ -13,7 +13,7 @@ function placeButtonAlert() {
 }
 
 function ritualButtonAlert() {
-  alert(`Feeding my cats in the mornings`);
+  alert(`Cooking dinner for myself`);
 }
 
 colorButton.addEventListener("click", colorButtonAlert);
