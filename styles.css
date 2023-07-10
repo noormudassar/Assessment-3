@@ -36,7 +36,13 @@ img {
   max-width: 300px;
 }
 
-#profileImage {
+.imageDiv {
+  display: flex;
+  justify-content: center;
+}
+
+#profilePage {
+  display: flex;
   justify-content: center;
 }
 
